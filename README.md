@@ -37,7 +37,7 @@ Pré-requisito: [Node.js](https://nodejs.org/) instalado.
 
 ```bash
 # clone o repositório
-git clone <url-do-repositorio>
+git clone (https://github.com/devnalberth/desafioLogicaDiome)
 cd LÓGICA
 
 # execute o programa
